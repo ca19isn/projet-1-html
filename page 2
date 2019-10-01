@@ -1,0 +1,31 @@
+<html>
+	<head>
+	<link href="style.css" rel="stylesheet" media="all" type="text/css">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title> Un peu d'histoire... </title>
+	</head>
+<body>
+<div id="menu">
+<ul class="navbar">
+<li onclick="1.html">Accueil</a>
+<li><a href="1.html">Accueil</a></li>
+<li><a href="Qu'est-ce qu'un meme.html">Qu'est-ce qu'un mème ?</a>
+<li><a href="Un peu d'histoire.html">Un peu d'histoire</a></li>
+  </ul>
+  </div>
+<p> <h4> Un peu d'histoire... </p> </h4>
+<h5>	<p > Le terme de "mème" a été pour la première fois cité dans <italic> Le Gène égoiste" </italic>
+	de Richard Dawkins. C'est une déformation du terme <bold> mimesis </bold>, qui veut dire "imitation" en grec. Il voulait ainsi se référer à comment des idées
+	pouvaient se propager et se perpréter à travers les générations. </p>
+	<br> <p> L'un des premiers mèmes que nous pouvons considérer comme tel est le Sator Square : </p>
+	<br> <p> <img src="https://www.howtogeek.com/wp-content/uploads/2018/06/Sator_Square_at_Opp%C3%A8de-300x296.png" width="360" height="360" </p>
+	<br> <p> C'est un palindrome de ces cinq mots : SATOR AREPO TENET OPERA ROTAS. On peut ainsi les lire dans tous les sens.
+	Même si le sens est encore caché, il a été montré à travers les siècles dans différentes cultures et à travers le monde.
+	<br> <p> Cependant, comme vu dans la page précédente, les mèmes ont pris une nouvelle forme. </p>
+	<br> <p> Le tout premier mème d'internet date de 1996, représentant un bébé dansant sur un fond noir. Ce gif avait rapidement été partagé sur le web. </p>
+	<br> <a href=https://www.youtube.com/watch?v=RJ5gEykr73s> Le premier mème. </p></a>
+	<br> <p> C'est en 1996 que Michael Girard créa un software qui montrait comment les mouvements pouvaient être programmés et montrés sur ordinateurs.
+	Le produit final étant un bébé dansant les différents pas du cha-cha-cha. Une des démos atterit dans les bureaux de LucasArts. La vidéo tournée en GIF,
+	l'un des employés le partagea à travers des forums et emails. Devenant ainsi le premier meme d'internet. </h5>
+	</body>
+</html>
