@@ -1,0 +1,23 @@
+<html>
+	<head>
+	<link href="style.css" rel="stylesheet" media="all" type="text/css">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title> Les memes d'internet </title>
+	</head>
+<body>
+<div id="menu">
+<ul class="navbar">
+<li onclick="1.html">Accueil</a>
+<li><a href="1.html">Accueil</a></li>
+<li><a href="Qu'est-ce qu'un meme.html">Qu'est-ce qu'un mème ?</a>
+<li><a href="Un peu d'histoire.html">Un peu d'histoire</a></li>
+  </ul>
+  </div>
+	<h6> <br> Les mèmes d'internet, et leur histoire. </br> </h6>
+<p> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><IMG SRC="http://platinumbinaryoptions.net/wp-content/uploads/2015/01/clickhere2.png"></a> </p>
+
+<br>
+</ul>
+
+</body>
+</html>
