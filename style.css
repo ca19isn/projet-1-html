@@ -1,0 +1,77 @@
+html{font-size:150%}
+body {
+  padding-left: 11em;
+  font-family:2em/1em Georgia, "Times New Roman",
+        Times, serif;
+  
+  color: black;
+  background-color: #FFC0CB }
+ul.navbar {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em }
+ul.navbar li {
+  background: white;
+  margin: 0.5em 0;
+  padding: 0.3em; }
+ul.navbar a {
+  text-decoration: none }
+a:link {
+  color: black }
+a:visited {
+  color: purple }
+a:hover {
+  color: gray }
+address {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+h1 {
+  font-family: "Times New Roman",
+        Times, serif;
+ color: grey;
+font-size: 150%;
+text-align: center;
+font-weight: bold;
+} 
+h2 {
+font-family: Comic sans MS, sans serif;
+  color: black;
+font-size: 100%;
+text-align: center;
+text-decoration: underline; 
+}
+h3 {
+font-family: Comic sans MS, sans serif;
+  color: black;
+font-size: 100%;
+text-align: center;
+}
+h4 {
+	font-family: "Times New Roman",
+        Times, serif;
+  color: grey;
+font-size: 150%;
+text-align: center;
+}
+h5 {
+	font-family: Comic sans MS, sans serif;
+  color: black;
+font-size: 100%;
+text-align: center;
+}
+h6 {
+	font-family: Comic sans MS, sans serif;
+  color: grey;
+font-size: 200%;
+text-align: center;
+}
+h7 {
+		font-family: Comic sans MS, sans serif;
+  color: black;
+font-size: 100%;
+text-align: center;}
